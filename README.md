@@ -62,10 +62,10 @@ Use `\` to escape regex symbols like `.`, `*`, `?`, etc.
 
 ### Tools & Resources
 
-    Online Testers: [Regex101](https://regex101.com/), [RegExr](https://regexr.com/)
+Online Testers: [Regex101](https://regex101.com/), [RegExr](https://regexr.com/)
 
-    Cheat Sheet: [Regex Quick Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)
+Cheat Sheet: [Regex Quick Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)
 
-	Natural language to regex: [https://www.easyregex.com/regex/](https://www.easyregex.com/regex/), [https://rows.com/spreadsheet/regex-generator-1OsvySxsJUgr4lMPEPicChUuAp9pB9FtqlSXFkAQENxL/8c85da75-d3d2-49a7-80b3-94739a047d19#regex-generator-with-ai](https://rows.com/spreadsheet/regex-generator-1OsvySxsJUgr4lMPEPicChUuAp9pB9FtqlSXFkAQENxL/8c85da75-d3d2-49a7-80b3-94739a047d19#regex-generator-with-ai)
+Natural language to regex: [EasyRegex](https://www.easyregex.com/regex/), [rows.com](https://rows.com/spreadsheet/regex-generator-1OsvySxsJUgr4lMPEPicChUuAp9pB9FtqlSXFkAQENxL/8c85da75-d3d2-49a7-80b3-94739a047d19#regex-generator-with-ai)
 ---
 
