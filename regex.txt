@@ -8,3 +8,5 @@ cuttu
  uMxi\.$
 #extract jo vo constructions
  जो.*वो 
+#extract ki patterns
+ कि 
