@@ -1,1 +1,10 @@
+#extract the occurence cuttu wherever it is in sentence
 cuttu
+#extract the word ani followed by some content and ending with A$
+ ani .*A?
+#extract beginning with the word nAku(space at end is required if its a word, if no space is specified it will search anywhere in the sentence)
+^nAku 
+#extract ending with uMxi words
+ uMxi\.$
+#extract jo vo constructions
+ जो.*वो 

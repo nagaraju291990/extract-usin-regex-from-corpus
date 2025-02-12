@@ -4,16 +4,18 @@ import sys
 def load_file(file_path):
     """Load content from a file."""
     with open(file_path, 'r', encoding='utf-8') as f:
-        return f.readlines()
+        return f.read().split("\n")
 
 def match_regex(corpus_lines, regex_patterns):
     """Match regex patterns against the corpus and print results."""
     matches = {}
     
     for regex in regex_patterns:
-        regex = regex.strip()
-        pattern = re.compile(regex, re.IGNORECASE)
-        matches[regex] = [line.strip() for line in corpus_lines if pattern.search(line)]
+        # regex = regex.strip()
+        if(regex.startswith("#")):
+            continue
+        pattern = re.compile(regex)
+        matches[regex] = [line.strip() for line in corpus_lines if pattern.search(line.strip())]
     
     return matches
 
@@ -27,7 +29,7 @@ def main():
     results = match_regex(corpus_lines, regex_patterns)
     
     for regex, matched_lines in results.items():
-        print(f"Regex: {regex}")
+        print(f"Regex: |{regex}|")
         if matched_lines:
             for line in matched_lines:
                 print(f"{regex}\t{line}")
