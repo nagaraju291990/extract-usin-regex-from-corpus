@@ -14,8 +14,10 @@ def match_regex(corpus_lines, regex_patterns):
         # regex = regex.strip()
         if(regex.startswith("#")):
             continue
+        original_regex = regex
+        regex = re.sub(r'#.*','',regex)
         pattern = re.compile(regex)
-        matches[regex] = [line.strip() for line in corpus_lines if pattern.search(line.strip())]
+        matches[original_regex] = [line.strip() for line in corpus_lines if pattern.search(line.strip())]
     
     return matches
 
