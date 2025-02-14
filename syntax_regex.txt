@@ -1,0 +1,151 @@
+#Sentence Structure & Word Order
+#Sentence Structure & Word Order##word order
+#Sentence Structure & Word Order##word order##svo, sov, etc.
+#Sentence Structure & Word Order##word order##verb-second
+#Null Pronominals
+#Null Pronominals##omitted pronouns when inferable/optionally dropped.
+#Ellipsis
+#Ellipsis##np ellipsis
+#Ellipsis##vp ellipsis
+#Ellipsis##gapping
+#Ellipsis##sluicing
+#Coordination
+#Coordination##conjunctive coordination
+#Coordination##conjunctive## 'and'
+#Coordination##conjunctive##contrast
+#Coordination##conjunctive##cumulative effect
+#Coordination##conjunctive##cause and effect
+#Coordination##conjunctive##sequential action
+#Coordination##conjunctive##coordinate nominal subjects
+#Coordination##conjunctive##coordinate verbs
+#Coordination##conjunctive##coordinate adjectives
+#Coordination##conjunctive##coordinate adverbials
+#Coordination##disjunctive
+#Coordination##disjunctive##conjunction ‘or’
+#Coordination##disjunctive##exclusive disjunction
+#Coordination##disjunctive##inclusive disjunction
+#Coordination##disjunctive##negative disjunction
+#Coordination##contrastive
+#Coordination##contrastive##conjunction ‘but’
+#Coordination##contrastive##unexpected contrast
+#Coordination##contrastive##correction/replacement
+#Coordination##contrastive##opposition/contrast
+#Complex
+#Complex##relative clause
+#Complex##relative clause##restrictive relative clause
+#Complex##relative clause##non-restrictive relative clause
+#Complex##relative clause##extraposed relative clause
+#Complex##relative clause##subject relative clause
+#Complex##relative clause##object relative clause
+#Complex##relative clause##possessive relative clause
+#Complex##relative clause##relative clause of place
+#Complex##relative clause##relative clause of time
+#Complex##relative clause##relative clause of reason
+#Complex##relative clause##relative clause with "with"
+#Complex##relative clause##relative clause with "with whom"
+#Complex##relative clause##relative clause with "by"
+#Complex##relative clause##relative clause with "to"
+#Complex##relative clause##cleft sentence relative clause
+#Complex##relative clause##non-finite relative clause
+#Complex##relative correlative clause
+#Complex##relative correlative clause##who/which/that....he/she/they/that
+#Complex##relative correlative clause##whom/which
+#Complex##relative correlative clause##as....so
+#Complex##relative correlative clause##the way... the same way
+#Complex##relative correlative clause##wherever....there
+#Complex##relative correlative clause##as many/as much....so many/so much
+#Complex##relative correlative clause##where there .... there is
+#Complex##relative correlative clause##when...then
+#Complex##conditional clause
+#Complex##conditional clause##real condition
+#Complex##conditional clause##hypothetical condition
+#Complex##conditional clause##counterfactual condition
+#Complex##conditional clause##mixed conditional
+#Complex##conditional clause##zero conditional
+#Complex##conditional clause##unless clause
+#Complex##conditional clause##provided that clause
+#Complex##conditional clause##in case clause
+#Complex##conditional clause##concessive clause
+#Complex##conditional clause##although clause
+#Complex##conditional clause##even though clause
+#Complex##conditional clause##though clause
+#Complex##conditional clause##while/whereas clause
+#Complex##conditional clause##despite/in spite of clause
+#Complex##conditional clause##much as clause
+#Verbal Constructions
+#Verbal Constructions##complement clauses
+#Verbal Constructions##complement clauses##subject complement clause
+#Verbal Constructions##complement clauses##direct object complement clause
+#Verbal Constructions##complement clauses##complement of the subject
+#Verbal Constructions##complement clauses##prepositional object complement clause
+#Verbal Constructions##complement clauses##object of a noun complement clause
+#Verbal Constructions##complement clauses##infinitive complement clause
+#Verbal Constructions##complement clauses##gerund complement clause
+#Verbal Constructions##copula constructions
+#Verbal Constructions##copula constructions##equative
+#Verbal Constructions##copula constructions##existential -
+#Verbal Constructions##copula constructions##locative -
+#Verbal Constructions##causative construction
+#Verbal Constructions##causative construction##periphrastic
+#Verbal Constructions##causative construction##lexical
+#Verbal Constructions##causative construction##double causative
+#Verbal Constructions##causative construction##extreme double causative
+#Verbal Constructions##causative construction##extreme double causative##ther types	>> manner-motion constructions
+#Verbal Constructions##causative construction##resultative constructions
+#Verbal Constructions##causative construction##light verb constructions
+#Verbal Constructions##causative construction##light verb constructions
+#Verbal Constructions##causative construction##serial verb constructions
+#Nominal Construction
+#Nominal Construction##exceptional case marking
+#Nominal Construction##exceptional case marking##gerundive clause
+#Nominal Construction##exceptional case marking##non-nominative subject construction
+#Negation
+#Negation##verbal negation
+#Negation##verbal negation##explicit negation
+#Negation##verbal negation##implicit negation
+#Negation##verbal negation##negative verbal noun
+#Negation##verbal negation##negative verbal participle
+#Negation##verbal negation##negative imperative
+#Negation##verbal negation##negative permissive
+#Negation##verbal negation##prohibition
+#Negation##verbal negation##conditional negation
+#Negation##verbal negation##concessive non-finite verb
+#Negation##verbal negation##probabilitative
+#Negation##negative relative clause
+#Negation##existential negation	negation of existence
+#Negation##copula/ predicate negation
+#Negation##copula/ predicate negation##nominal predicate
+#Negation##copula/ predicate negation##adjective predicate
+#Negation##copula/ predicate negation##existential predicate
+#Negation##negative polarity
+#Negation##negative polarity##negative polarity items
+#Negation##morphological
+#Negation##morphological##affix-based negation
+#Negation##double negation
+#Negation##double negation##two negatives reinforcing or canceling each other
+#Negation##multiple negatives
+#Negation##multiple negatives##use of more than one negative in a sentence
+#Negation##negative pronouns
+#Negation##negative pronouns##pronouns with negative meaning
+#Negation##negative adverbs
+#Negation##negative adverbs##adverbs expressing negation
+#Negation##negative quantifiers
+#Interrogative
+#Interrogative##yes/no questions
+#Interrogative##wh-questions
+#Interrogative##tag questions
+#Discourse Structure
+#Discourse Structure##anaphora
+#Discourse Structure##coreference
+#Discourse Structure##reflexives
+#Discourse Structure##reciprocals
+#multiple clauses
+#multiple clauses##conditional clause+ relative clause
+#multiple clauses##conditional clause + relative clause + vp ellipsis
+#multiple clauses##counterfactual condition  + relative clause + contrastive
+#multiple clauses##cleft sentence + non-finite relative clause + negative disjunction
+#multiple clauses##appositive construction + infinitive complement clause + wh-question
+#multiple clauses##negative permissive +  relative clause + negative polarity item
+#multiple clauses##negative imperative + nominal predicate + vp ellipsis
+#multiple clauses##negative existential predicate + extraposed relative clause + implicit negation
+#multiple clauses##double negation + cleft sentence + negative adverb

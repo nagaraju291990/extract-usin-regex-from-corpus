@@ -1,0 +1,107 @@
+#Tense
+#Tense##past
+#Tense##past##habitual
+#Tense##past##reported speech
+#Tense##present
+#Tense##present##universal facts
+#Tense##present##habitual or repeated actions
+#Tense##present##scheduled event
+#Tense##present##in narration
+#Tense##future
+#Tense##future##predictions
+#Tense##future##scheduled event
+#Tense##future##intentions and plans
+#Tense##future##promises and assurances
+#Tense##future##conditional outcomes
+#Aspect
+#Aspect##perfective
+#Aspect##imperfective
+#Aspect##progressive
+#Aspect##perfect
+#Aspect##iterative
+#Aspect##inchoative
+#Aspect##terminative
+#Aspect##experiential
+#Mood
+#Mood##imperative
+#Mood##optative
+#Mood##dubitative
+#Mood##subjunctive
+#Mood##hortative
+#Mood##capabilitative
+#Mood##potential
+#CM
+#CM##nominative
+#CM##nominative##active voice
+#CM##nominative##non-volitional action
+#CM##nominative##causative action
+#CM##nominative##passive voice
+#CM##nominative##stative verb
+#CM##nominative##stative verb##state
+#CM##nominative##stative verb##condition
+#CM##nominative##stative verb##existence
+#CM##nominative##experiencer subject
+#CM##accusative
+#CM##accusative##[+human]
+#CM##accusative##[-human, +animate]
+#CM##accusative##[-animate, +concrete]
+#CM##accusative##[-animate, -concrete]
+#CM##instrumental
+#CM##associative
+#CM##dative
+#CM##benefactive
+#CM##ablative
+#CM##locative
+#CM##genitive
+#CM##genitive##possessive
+#CM##genitive##subjective
+#CM##genitive##objective
+#CM##genitive##partitive
+#CM##genitive##descriptive
+#CM##genitive##measure/quantity
+#CM##genitive##origin or source
+#CM##genitive##material
+#CM##genitive##relationship
+#CM##genitive##double
+#CM##cause/reason
+#CM##temporal
+#CM##goal of motion
+#CM##possession
+#CM##possession##alienable
+#CM##possession##inalienable
+#CM##comparison
+#CM##purpose
+#CM##direction
+#GNP
+#GNP##1. sg
+#GNP##1.pl. inclusive
+#GNP##1.pl. exclusive
+#GNP##2.sg. formal
+#GNP##2.sg. honorific
+#GNP##2.sg. informal
+#GNP##2.pl
+#GNP##2.pl honorific
+#GNP##3.sg.m. formal
+#GNP##3.sg.m. honorific
+#GNP##3.sg.m. informal
+#GNP##3.sg.f. formal
+#GNP##3.sg.f. honorific
+#GNP##3.sg.f. informal
+#GNP##3.sg. n
+#GNP##3.pl.human
+#GNP##3. pl.n
+#Intensifier
+#Intensifier##degree
+#Intensifier##adverbial
+#Intensifier##intensifying
+#Quantifier
+#Quantifier##definite
+#Quantifier##indefinite
+#Quantifier##universal
+#Quantifier##existential
+#Quantifier##comparative
+#Quantifier##partitive
+#Honorific Markers
+#Honorific Markers##honorific suffixes
+#Honorific Markers##pluralization for respect
+#Honorific Markers##verb honorifics

@@ -1,0 +1,25 @@
+#Lexical Gaps
+#MWE
+#MWE##reduplicatives:
+#MWE##reduplicatives:##complete reduplicatives
+#MWE##reduplicatives:##complete reduplicatives##onomatopoeic reduplicatives
+#MWE##reduplicatives:##complete reduplicatives##onomatopoeic reduplicatives##adverbial onomatopoeic reduplicatives:
+#MWE##reduplicatives:##complete reduplicatives:##onomatopoeic reduplicatives##nominal onomatopoeic reduplicatives:
+#MWE##reduplicatives:##non-onomatopoeic reduplicatives
+#MWE##reduplicatives:##non-onomatopoeic reduplicatives##verbal reduplicatives:
+#MWE##reduplicatives:##non-onomatopoeic reduplicatives##nominal reduplicatives:
+#MWE##reduplicatives:##non-onomatopoeic reduplicatives##adverbial reduplicatives:
+#MWE##partial reduplicatives:
+#MWE##partial reduplicatives:##intensifying compounds
+#MWE##partial reduplicatives:##echo compounds
+#MWE##partial reduplicatives:##verbal oppositive compounds
+#MWE##partial reduplicatives:##verbal emphatic compounds
+#MWE##non-reduplicatives
+#MWE##non-reduplicatives##balancing compounds
+#MWE##non-reduplicatives##balancing compounds##non-lexical members
+#MWE##non-reduplicatives##balancing compounds##synonymous members
+#MWE##non-reduplicatives##balancing compounds##opposite members
+#MWE##non-reduplicatives##nominal compounds:
+#MWE##non-reduplicatives##verbal compounds
+#Idioms
+#Metaphors
